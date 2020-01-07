@@ -2,16 +2,16 @@
     "description": "Date: 26 December 2019 15:12:19 (UTC)",
     "name": "allow_zoom.lsrules",
     "rules": [
-        {
+       {
             "action": "allow",
             "creationDate": 1565452923.62,
             "modificationDate": 1565452923.62,
-            "notes": "",
+            "notes": "all zoom clients tcp 443 remote-hosts",
             "owner": "me",
             "process": "/Applications/zoom.us.app/Contents/MacOS/zoom.us",
-            "remote-domains": "*.zoom.us"
-        },
-        
+            "protocol": "tcp",
+            "ports": "443",
+            "remote-domains" : "zoom.us"
         {
             "action": "allow",
             "creationDate": 1565452923.62,
