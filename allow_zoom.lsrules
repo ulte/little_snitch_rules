@@ -73,7 +73,7 @@
             "modificationDate": 1565452923.62,
             "notes": "zoom phone clients udp 20000-64000",
             "owner": "me",
-            "process": "/Applications/zoom.uss",
+            "process": "/Applications/zoom.us",
             "protocol": "udp",
             "ports": "20000-64000",
             "remote-addresses": "103.122.166.0/23, 162.12.232.0/22, 207.226.132.0/24, 209.9.211.0/24, 213.19.144.0/24, 213.244.140.0/24"
