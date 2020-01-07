@@ -12,6 +12,7 @@
             "protocol": "tcp",
             "ports": "443",
             "remote-domains" : "zoom.us"
+        },    
         {
             "action": "allow",
             "creationDate": 1565452923.62,
